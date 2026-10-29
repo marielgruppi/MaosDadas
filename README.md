@@ -6,6 +6,8 @@ Registro de pesquisa sobre o **Projeto Mãos Dadas** da Secretaria de Estado de 
 
 - [`registro-do-chat.md`](registro-do-chat.md): registro completo da conversa com o Claude Code (29/10/2026), com as perguntas, a pesquisa feita e as respostas.
 - [`analise-fontes-de-recursos.md`](analise-fontes-de-recursos.md): análise dos documentos deste branch sobre a fonte dos recursos dos convênios.
+- [`analise-dados-transparencia.md`](analise-dados-transparencia.md): análise das planilhas do Portal da Transparência (fontes dos pagamentos, legalidade e como localizar o Mãos Dadas na LOA).
+- Planilhas `.xlsx`: convênios e pagamentos por município, escolas absorvidas e cruzamentos.
 - PDFs: legislação e normas do projeto (Leis, Resoluções SEE, ofícios, memorandos, cartilhas e fluxograma SIGCON).
 
 ## Situação da pesquisa

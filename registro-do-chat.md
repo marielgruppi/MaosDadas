@@ -164,3 +164,41 @@ O acesso de escrita foi liberado. Este arquivo e o `README.md` foram criados e e
 - os arts. 68 a 77 da LDB;
 - as Leis 11.947/2009 e 9.766/1998;
 - a decisão do TCE-MG.
+
+## 6. Pedido: análise dos dados do branch `Dados`
+
+> Acabei de subir os arquivos no Branch Dados para que possa verificar o que encontrei no portal da transparência coletnado informação sobre os convênios pagos aos municípios que passaram pelo mãos dadas, alguns informam a fonte o Fundeb e outros fundos de MDE como repasse de convênio. Há questionamentos sobre a legalidade disso. Além disso como poderíamos identificar esses repasse sno LOA do Estado para ver de onde vem dinheiro para o Mãos dadas.
+
+### O que foi feito
+
+- Li as cinco planilhas do branch.
+- Recalculei os totais por fonte e por ano a partir dos pagamentos de cada convênio. Os números conferem com a aba 5.
+- A análise completa está em [`analise-dados-transparencia.md`](analise-dados-transparencia.md).
+
+### Resposta (resumo)
+
+**O que os dados mostram:**
+
+- **Convênios de investimento do Mãos Dadas** (R$ 997,5 mi pagos):
+  - **R$ 463,2 mi (46%) vieram do Fundeb estadual**, todos pagos em 2021 e 2022;
+  - o resto veio de recursos ordinários.
+  - Inclui pelo menos R$ 21,3 mi em creches e escolas infantis municipais.
+- **Repasse do 1º ano** (R$ 362,5 mi): os títulos dizem "Fundeb, QESE e PNAE", mas o dinheiro saiu principalmente de:
+  - **QESE:** R$ 206,7 mi;
+  - **Tesouro:** R$ 124,1 mi;
+  - **Fundeb:** só R$ 31,3 mi.
+- Somando o Fortalecimento e outros convênios, o **Fundeb estadual pago a municípios por convênio chega a ~R$ 608,6 mi**.
+
+**Questionamentos sobre a legalidade:**
+
+- Fundeb transferido para outra conta (Lei 14.113, art. 21).
+- Fundeb estadual usado fora do âmbito prioritário do Estado, em educação infantil (CF, art. 211, e ADCT, art. 212-A).
+- QESE usada como repasse do 1º ano, embora não possa pagar pessoal.
+- Possível dupla contagem no mínimo de 25% em MDE.
+
+**Como achar o Mãos Dadas na LOA:**
+
+- Trazer **programa e ação** dos empenhos (base Despesa pública).
+- Procurar essas ações no **QDD da LOA** e no **PPAG**.
+- Conferir os créditos suplementares de troca de fonte, o **RREO Anexo 8**, o **SIOPE** e o **parecer prévio do TCE-MG** de 2021 e 2022.
+- Se faltar informação, pedir à SEE pela Lei de Acesso à Informação.
