@@ -124,3 +124,43 @@ Conferi de novo e o repositório continuava vazio. O pedido de acesso de escrita
 ## 4. Pedido: "na verdade quero que esse chat seja registrado tudo no /MaosDadas do Github"
 
 O acesso de escrita foi liberado. Este arquivo e o `README.md` foram criados e enviados ao repositório como primeiro commit.
+
+## 5. Pedido: análise dos arquivos do branch `Legislação`
+
+> Acabei de subir pro branch "Legislação" no Github vários arquivos de legislações e normativas do Mãos Dadas, poderia verificar para entendermos melhor a fonte dos recursos para financiamento dos convênios?
+
+### O que foi feito
+
+- Li o texto integral dos 23 PDFs do branch. A "CARTILHA 2023" é digitalizada e foi lida página por página como imagem.
+- A análise completa está em [`analise-fontes-de-recursos.md`](analise-fontes-de-recursos.md).
+
+### Resposta (resumo)
+
+**Há dois tipos de repasse, ambos por convênio no SIGCON:**
+
+1. **Repasse do 1º ano**
+   - Valores de **FUNDEB, QESE e PNAE** proporcionais às matrículas absorvidas, pelo Censo Escolar anterior.
+   - É obrigatório (Res. SEE 5.148/2025, art. 8º; Ofício ASAM 3/2023; Ofício Orientação 1/2024).
+   - O dinheiro sai da parcela estadual desses recursos. Do 2º ano em diante, o FNDE repassa direto ao município.
+2. **Apoio financeiro para bens e obras**
+   - Facultativo, "conforme a disponibilidade financeiro-orçamentária" (Res. 5.148, arts. 4º, IV e 9º), regido pelo Decreto 48.745/2023.
+   - **Nenhum documento informa a fonte orçamentária estadual.** É o principal ponto em aberto.
+
+**Pontos de atenção:**
+
+- O FUNDEB é repassado por convênio para outra conta. A Lei 14.113, art. 21, proíbe transferir os recursos para outras contas, e a Lei Estadual 12.768/1998 ainda fala do FUNDEF.
+- A QESE não pode pagar pessoal.
+- O PNAE tem um caminho próprio: o FNDE pode repassar direto ao município (Lei 11.947, art. 7º).
+- A cartilha permite "manutenção e custeio", que a resolução não prevê.
+- Professores em adjunção continuam com ônus para o Estado.
+- Ano eleitoral de 2026.
+- Fiscalização do TCE-MG.
+
+**O que falta para fechar a análise:**
+
+- um termo de convênio ou nota de empenho, com a fonte de recurso;
+- o Decreto 48.745/2023;
+- a Lei 14.113 completa;
+- os arts. 68 a 77 da LDB;
+- as Leis 11.947/2009 e 9.766/1998;
+- a decisão do TCE-MG.
